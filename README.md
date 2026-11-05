@@ -123,4 +123,4 @@ Dataset license: [Creative Commons Attribution 4.0 International (CC BY 4.0)](ht
 
 ---
 
-*This project was developed as a portfolio project to demonstrate skills in Power BI, data transformation, DAX, and operational data visualization.*
+
